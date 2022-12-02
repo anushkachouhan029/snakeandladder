@@ -1,0 +1,15 @@
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\bin\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.exe
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\bin\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.deps.json
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\bin\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.runtimeconfig.json
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\bin\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.dll
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\bin\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.pdb
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.csproj.AssemblyReference.cache
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.AssemblyInfoInputs.cache
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.AssemblyInfo.cs
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.csproj.CoreCompileInputs.cache
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.dll
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\refint\how-many-times-a-dice-was-played-to-win-the-game.dll
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.pdb
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\how-many-times-a-dice-was-played-to-win-the-game.genruntimeconfig.cache
+C:\snakeandladder\how-many-times-a-dice-was-played-to-win-the-game\obj\Debug\net6.0\ref\how-many-times-a-dice-was-played-to-win-the-game.dll

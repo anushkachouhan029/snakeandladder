@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "how-many-times-a-dice-was-played-to-win-the-game/1.0.0": {
+        "runtime": {
+          "how-many-times-a-dice-was-played-to-win-the-game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "how-many-times-a-dice-was-played-to-win-the-game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
