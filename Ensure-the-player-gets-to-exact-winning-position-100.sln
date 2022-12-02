@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ensure-the-player-gets-to-exact-winning-position-100", "Ensure-the-player-gets-to-exact-winning-position-100.csproj", "{922E12D5-C0BC-4370-BAA2-3F3F59E56474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922E12D5-C0BC-4370-BAA2-3F3F59E56474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922E12D5-C0BC-4370-BAA2-3F3F59E56474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922E12D5-C0BC-4370-BAA2-3F3F59E56474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922E12D5-C0BC-4370-BAA2-3F3F59E56474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {256960F9-7F1F-49EE-B703-425A409305C4}
+	EndGlobalSection
+EndGlobal

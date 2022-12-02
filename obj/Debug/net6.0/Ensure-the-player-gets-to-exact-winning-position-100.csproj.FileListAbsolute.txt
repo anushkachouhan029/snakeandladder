@@ -1,0 +1,15 @@
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\bin\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.exe
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\bin\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.deps.json
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\bin\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.runtimeconfig.json
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\bin\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.dll
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\bin\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.pdb
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.csproj.AssemblyReference.cache
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.AssemblyInfoInputs.cache
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.AssemblyInfo.cs
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.csproj.CoreCompileInputs.cache
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.dll
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\refint\Ensure-the-player-gets-to-exact-winning-position-100.dll
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.pdb
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\Ensure-the-player-gets-to-exact-winning-position-100.genruntimeconfig.cache
+C:\snakeandladder\Ensure-the-player-gets-to-exact-winning-position-100\obj\Debug\net6.0\ref\Ensure-the-player-gets-to-exact-winning-position-100.dll
